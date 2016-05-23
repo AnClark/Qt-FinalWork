@@ -1,6 +1,6 @@
 #-------------------------------------------------
 #
-# Project created by QtCreator 2016-05-20T21:25:32
+# Project created by QtCreator 2016-05-21T10:38:10
 #
 #-------------------------------------------------
 
@@ -14,9 +14,9 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    database_repo.cpp
+    dbhandler.cpp
 
 HEADERS  += mainwindow.h \
-    database_repo.h
+    dbhandler.h
 
 FORMS    += mainwindow.ui
